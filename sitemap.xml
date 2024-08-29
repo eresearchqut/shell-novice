@@ -13,7 +13,13 @@
     <loc>https://swcarpentry.github.io/shell-novice/04-pipefilter.html</loc>
   </url>
   <url>
+    <loc>https://swcarpentry.github.io/shell-novice/04-script.html</loc>
+  </url>
+  <url>
     <loc>https://swcarpentry.github.io/shell-novice/05-loop.html</loc>
+  </url>
+  <url>
+    <loc>https://swcarpentry.github.io/shell-novice/05-pipefilter.html</loc>
   </url>
   <url>
     <loc>https://swcarpentry.github.io/shell-novice/06-script.html</loc>
@@ -55,7 +61,13 @@
     <loc>https://swcarpentry.github.io/shell-novice/instructor/04-pipefilter.html</loc>
   </url>
   <url>
+    <loc>https://swcarpentry.github.io/shell-novice/instructor/04-script.html</loc>
+  </url>
+  <url>
     <loc>https://swcarpentry.github.io/shell-novice/instructor/05-loop.html</loc>
+  </url>
+  <url>
+    <loc>https://swcarpentry.github.io/shell-novice/instructor/05-pipefilter.html</loc>
   </url>
   <url>
     <loc>https://swcarpentry.github.io/shell-novice/instructor/06-script.html</loc>
