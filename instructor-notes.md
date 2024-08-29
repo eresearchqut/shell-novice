@@ -170,13 +170,7 @@ as long as learners using Windows do not run into roadblocks such as:
   readers) understand file content and are not a requirement of files
   (covered briefly in
   [Navigating Files and Directories](../episodes/02-filedir.md)).
-  This can be done in the
-  [Pipes and Filters](../episodes/04-pipefilter.md) section by showing
-  that you can redirect standard output to a file without the .txt extension
-  (e.g., lengths), and that the resulting file is still a perfectly usable text file.
-  Make the point that if double-clicked in the GUI, the computer will
-  probably ask you what you want to do.
-
+ 
 - We have to leave out many important things because of time constraints,
   including file permissions, job control, and SSH.
   If learners already understand the basic material,
