@@ -11,10 +11,10 @@
 carpentry: 'swc'
 
 # Overall title for pages.
-title: 'The Unix Shell'
+title: 'Introduction to the Unix Shell for HPC Users'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: '2014-10-22'
+created: '2024-08-29'
 
 # Comma-separated list of keywords for the lesson
 keywords: 'software, data, lesson, The Carpentries'
@@ -62,10 +62,8 @@ episodes:
 - 01-intro.md
 - 02-filedir.md
 - 03-create.md
-- 04-pipefilter.md
-- 05-loop.md
-- 06-script.md
-- 07-find.md
+- 04-script.md
+- 05-pipefilter.md
 
 # Information for Learners
 learners: 
