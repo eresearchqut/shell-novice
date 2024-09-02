@@ -33,7 +33,7 @@ source: 'https://github.com/swcarpentry/shell-novice'
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org'
+contact: 'eresearch@qut.edu.au'
 
 # Navigation ------------------------------------------------
 #
