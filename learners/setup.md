@@ -9,7 +9,7 @@ You need to download some files to follow this lesson.
 1. Download [shell-lesson-data.zip][zip-file] to your Downloads folder.
 2. Unzip/extract the file.
   **Let your instructor know if you need help with this step**.
-  You should end up with a new folder called **`shell-lesson-data`** on your Downloads folder.
+  You should end up with a new folder called **`shell-lesson-data`** in your Downloads folder.
 
 ## Install software
 
